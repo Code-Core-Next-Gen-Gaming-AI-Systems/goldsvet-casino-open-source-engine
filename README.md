@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> # 🎰 Goldsvet Casino Open Source Engine </h1>
+<h1> # 🎰 Goldsvet Casino Open Source Engine </h1>    
 
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge&logo=rocket)]()
 [![Architecture](https://img.shields.io/badge/Architecture-High--Load%20%2F%20Decentralized-blue?style=for-the-badge&logo=server)]()
