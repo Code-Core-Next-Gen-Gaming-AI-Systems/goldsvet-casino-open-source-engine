@@ -43,6 +43,10 @@ graph TD
 ```
 
 
+
+
+
+
 ### 💎 Key Features & Capabilities
 
 * **🎰 2500+ Auto-Updating Slots:** Direct API integration with top global providers (Pragmatic Play, Hacksaw Gaming) with the ability to integrate alternative studios on demand.
@@ -56,7 +60,7 @@ graph TD
 
 ### 📊 Competitive Matrix
 
-| Comparison Criteria | 🚀 Code Core (Mint Scripts) | ❌ Standard Public Builds |
+| Comparison Criteria | 🚀 Code Core (Mint Scripts)  | ❌ Standard Public Builds |
 | :--- | :--- | :--- |
 | **Source Code** | **100% Open Source**, unencrypted | Encoded via IonCube, hidden security risks |
 | **Crypto Payments** | **Custom Local Gateways (0% fees)** | Paid aggregators (5% to 12% turnover cut) |
@@ -80,7 +84,7 @@ Yes, the engine architecture is fully modular. You can easily plug in alternativ
 **4. How are financial security and settlements handled?**  
 All settlements occur directly through the blockchain without intermediary payment gateways. Customer funds are credited instantly to your wallets, and the system supports both manual payout audits and fully automated modes.
 
----
+
 
 *This material is the intellectual property of Code Core & Mint Scripts Technology Lab.*  
 *© 2026 Code Core — Web3 & iGaming Architectural Engineering.*
