@@ -11,9 +11,9 @@
 
 ![Goldsvet Crypto Casino Script Open Source Code and API - Code Core](https://github.com/Code-Core-Next-Gen-Gaming-AI-Systems/goldsvet-casino-open-source-engine/blob/main/GoldsvetCasino.jpg?raw=true)
 
-[🌐 Official Website & Detailed Product Overview](https://mintscripts.net/market/61-kupit-skript-kazino-pod-kljuch-goldsvet-crypto-casino-s-api-pragmatic-play-i-hacksaw.html)
+[🌐 Official Website & Detailed Product Overview](https://mintscripts.net/market/61-kupit-skript-kazino-pod-kljuch-goldsvet-crypto-casino-s-api-pragmatic-play-i-hacksaw.html)     </div>   
 
-      </div>   
+  
    
 
 
