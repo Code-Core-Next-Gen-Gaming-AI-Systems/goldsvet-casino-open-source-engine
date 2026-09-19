@@ -33,7 +33,7 @@ Below is the diagram illustrating real-time gateway operations and game session 
 graph TD
     A[Player Deposit / Crypto TX] --> B(Local Blockchain Gateway API)
     B --> C{Balance Router & Ledger}
-    C -->|API Providers| D[Pragmatic Play & Hacksaw 2500+ Slots]
+    C -->|API Providers| D[2500+ Slots]
     C -->|Native Engine| E[12 Instant Games: Crash, Plinko, Blackjack]
     C -->|Sportsbook| F[Live Sports Betting & Odds Module]
     D --> G[Risk Management & RTP Control GDR 8%]
@@ -49,7 +49,7 @@ graph TD
 
 ### 💎 Key Features & Capabilities
 
-* **🎰 2500+ Auto-Updating Slots:** Direct API integration with top global providers (Pragmatic Play, Hacksaw Gaming) with the ability to integrate alternative studios on demand.
+* **🎰 2500+ Auto-Updating Slots:** Direct API integration with top global providers  with the ability to integrate alternative studios on demand.
 * **⚽ Built-in Sportsbook Module:** Full-scale sports betting line (football, basketball, tennis, esports) with customizable odds and an intuitive admin panel.
 * **🚀 12 Instant Games (No API Required):** Autonomous internal games (Crash, Plinko, Mines, Blackjack) running directly on your server with zero monthly third-party traffic fees.
 * **🔗 Direct Crypto Payments (0% Fees):** Local blockchain gateways for USDT, TON, TRON, and other networks. Deposits and withdrawals are credited directly to your wallets without intermediaries or aggregators.
