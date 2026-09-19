@@ -1,0 +1,23 @@
+{
+    "name": "code-core/goldsvet-casino-engine",
+    "description": "Enterprise Goldsvet Crypto Casino Open Source Engine with 2500+ Slots API and 0% Crypto Gateway",
+    "type": "project",
+    "license": "Commercial",
+    "authors": [
+        {
+            "name": "Code Core Development Team",
+            "email": "dev@mintscripts.net"
+        }
+    ],
+    "require": {
+        php: ">=8.1",
+        "ext-pdo": "*",
+        "ext-json": "*",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "CodeCore\\": "src/"
+        }
+    }
+}
