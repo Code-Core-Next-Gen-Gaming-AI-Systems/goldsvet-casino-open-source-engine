@@ -1,0 +1,20 @@
+# Code Core - High-Load iGaming & Crypto Casino Engine
+
+> Open-source high-load architecture template designed for custom crypto casino and Web3 betting platform deployments. Clean architecture without IonCube encodings, designed for high-load systems and independent gateway integration.
+
+## Core Overview
+- Platform: Goldsvet modernized high-load engine framework.
+- Architecture: Decentralized, modular, optimized for dedicated VPS/VDS (Hetzner, Contabo).
+- Payments: Local blockchain gateway integration supporting USDT, TON, TRON (0% intermediary fees).
+- Native Games: 12 built-in instant games (Crash, Plinko, Mines, Blackjack) requiring no external API traffic fees.
+- Sportsbook: Full-scale sports betting module with customizable odds and admin analytics.
+- Provider API: Standardized API gateway routing for Tier-1 slot providers and aggregators.
+
+## Technical Documentation & Resources
+- Official Product Overview & Purchasing Packages: https://mintscripts.net/market/61-kupit-skript-kazino-pod-kljuch-goldsvet-crypto-casino-s-api-pragmatic-play-i-hacksaw.html[cite: 1]
+- Source Code Repository: https://github.com/Code-Core-Next-Gen-Gaming-AI-Systems/goldsvet-casino-open-source-engine[cite: 1]
+
+## Key Architecture & Modules
+1. Balance Router & Ledger: Real-time session management and risk management module with customizable RTP control (GDR adjustment 8%+).
+2. Direct Blockchain Payflow: Native crypto transaction handler bypassing third-party aggregators.
+3. Retention Engine: Multi-tier loyalty system, tournaments, weekly cashback, and dynamic player ranks.
