@@ -44,6 +44,20 @@ graph TD
 
 
 
+## ⚽ Standalone Sportsbook Module (PHP 7.4+)
+
+Looking to integrate a professional betting line into an existing platform? Our standalone **Sportsbook & Live Betting Module** is fully decoupled and can be deployed on top of any custom script, PHP 7.4+ CMS, or the Goldsvet crypto casino engine.
+
+### 💎 Key Advantages & Integration:
+* **Universal Compatibility:** Instantly plugs into any casino script, legacy engine, or custom PHP platform with minimal setup.
+* **100% Open Source Code:** Fully unencrypted source code, allowing complete freedom to customize odds, designs, and database logic.
+* **Zero API Fees (Free Key):** Forget about heavy monthly subscription costs or third-party profit splits. Operates with a built-in free API key structure.
+* **Lightning-Fast Deployment:** Lightweight architecture ensures quick, hassle-free installation and effortless server configuration.
+* **Full Control:** Modify matches, betting markets, risk parameters, and margins on the fly through an intuitive admin control panel.
+
+[![Standalone Sportsbook Module for PHP Casino Script - Live Demo and Integration](https://mintscripts.net/uploads/posts/2026-08/bettingdark.jpg)](https://mintscripts.net/en/market/95-sportsbook-module-php-casino-script.html)
+
+
 
 
 
