@@ -2,6 +2,10 @@
 
 <h1> # 🎰 Goldsvet Casino Open Source Engine </h1>    
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=00FFB2&center=true&vCenter=true&width=900&lines=Goldsvet+Crypto+Casino+Engine+%E2%80%A2+Open+Source;Zero+Encryption+%E2%80%A2+No+Backdoors+%E2%80%A2+Full+Decentralization;Standalone+Sportsbook+%26+Live+Betting+%E2%80%A2+PHP+7.4%2B;High-Load+VPS%2FVDS+%E2%82%AC+Cluster+Ready;Live+Odds+%E2%80%A2+Real-Time+Risk+Control+%E2%80%A2+Admin+Panel;Full+Source+Code+%E2%80%A2+No+IonCube+%E2%80%A2+No+Hidden+Fees" alt="Goldsvet Casino Engine" />
+</p>
+
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge&logo=rocket)]()
 [![Architecture](https://img.shields.io/badge/Architecture-High--Load%20%2F%20Decentralized-blue?style=for-the-badge&logo=server)]()
 [![Source Code](https://img.shields.io/badge/Source-100%25%20Open%2520Source-purple?style=for-the-badge&logo=github)]()
@@ -14,7 +18,9 @@
 [🌐 Official Website & Detailed Product Overview](https://mintscripts.net/market/61-kupit-skript-kazino-pod-kljuch-goldsvet-crypto-casino-s-api-pragmatic-play-i-hacksaw.html)     </div>   
 
   
-   
+   <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Footer animation">
+</p>
 
 
 ## ⚡ Next-Gen Engine Overview
