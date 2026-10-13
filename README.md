@@ -26,7 +26,7 @@ This repository offers **two distinct, production-ready configurations** tailore
 | 🔹 **Option 1: 100% Local Open-Source Engine** | 🔸 **Option 2: Hybrid Engine (Local + API Providers)** |
 | :--- | :--- |
 | **Zero external dependencies.** No monthly API fees, no third-party revenue splits. | **Open-source core + External API integration.** Combine local games with premium provider slots. |
-| **Built-in Games:** Crash, Slides, Mines, Local Sportsbook. | **Built-in Games:** Crash, Slides, Mines, Local Sportsbook **+** 2500+ API Slots/Live Casino. |
+| **Built-in Games:** Slots (1100+), Crash, Slides, Mines, Local Sportsbook. | **Built-in Games:** Crash, Slides, Mines, Local Sportsbook **+** 2500+ API Slots/Live Casino. |
 | **Payments:** Stripe, PIX, Coinbase Commerce, NowPayments, PaymentWall, PIN Codes. | **Payments:** Same local gateways **+** advanced aggregator wallet routing. |
 | **Best for:** Private casinos, multi-brand networks, B2B API providers, budget-conscious startups. | **Best for:** Established operators seeking premium content alongside zero-fee local games. |
 | [**🔗 View Option 1 Details & Purchase**](https://mintscripts.net/market/73-mint-scripts-engine-kripto-kazino-laravel-open-source.html) | [**🔗 View Option 2 Details & Purchase**](https://mintscripts.net/market/61-kupit-skript-kazino-pod-kljuch-goldsvet-crypto-casino-s-api-pragmatic-play-i-hacksaw.html) |
